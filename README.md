@@ -87,3 +87,15 @@ npm start
 ```
 
 Certifique-se de que o Node.js e o npm estejam instalados em seu sistema antes de prosseguir com as etapas acima.
+
+
+
+
+Alunos
+
+Leonardo Felix
+Estela Rodrigues
+Micaeli Brito
+Gabriela Pereira
+Nicole Reis
+Samuel Rezende
